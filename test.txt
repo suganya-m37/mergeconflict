@@ -1,1 +1,1 @@
-city new
+city bangalore
